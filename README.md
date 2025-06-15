@@ -9,3 +9,8 @@ This repository tracks my personal and professional growth toward becoming a Dat
 - 🏆 Certifications & progress timeline
 
 Everything here reflects consistent effort, curiosity, and applied learning.
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/data-science-journey)
+![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/data-science-journey)
+![Languages](https://img.shields.io/github/languages/count/YOUR_USERNAME/data-science-journey)
