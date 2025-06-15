@@ -1,8 +1,28 @@
+<div align="center">
+
 # 🚀My Data Science Journey
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Akib-Osmani/data-science-journey?color=blue)](https://github.com/Akib-Osmani/data-science-journey)
-[![View Profile](https://img.shields.io/badge/GitHub-@Akib--Osmani-black?logo=github)](https://github.com/Akib-Osmani)
-[![License](https://img.shields.io/github/license/Akib-Osmani/data-science-journey?color=green)](LICENSE)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Training+Today;Machine+Learning+Explorer;Python+%26+Analytics+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Akib-Osmani/data-science-journey">
+    <img src="https://img.shields.io/github/last-commit/Akib-Osmani/data-science-journey?style=for-the-badge&logo=git&logoColor=white&color=FF6B6B&labelColor=4ECDC4" alt="Last Commit"/>
+  </a>
+  <a href="https://github.com/Akib-Osmani/data-science-journey/stargazers">
+    <img src="https://img.shields.io/github/stars/Akib-Osmani/data-science-journey?style=for-the-badge&logo=star&logoColor=white&color=FFD93D&labelColor=FF6B6B" alt="GitHub Stars"/>
+  </a>
+  <a href="https://github.com/Akib-Osmani/data-science-journey/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge&logo=apache&logoColor=white&color=45B7D1&labelColor=96CEB4" alt="Apache 2.0 License"/>
+  </a>
+</p>
+
+---
+
+</div>
 
 Welcome! This is my personal Data Science journey — a structured, transparent, and evolving roadmap of how I'm building and showcasing my skills in data science, analytics, and machine learning. This repository reflects not just projects, but the learning process itself.
 
