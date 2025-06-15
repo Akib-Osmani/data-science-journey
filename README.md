@@ -9,7 +9,7 @@ Welcome! This is my personal Data Science journey — a structured, transparent,
 ---
 ### 📌 Repository Overview
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akib-Osmani&repo=data-science-journey&theme=default)](https://github.com/Akib-Osmani/data-science-journey)
+
 
 
 | Folder | Description |
@@ -23,15 +23,6 @@ Welcome! This is my personal Data Science journey — a structured, transparent,
 | 📂 [`Resources/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Resources) | PDFs, cheat sheets, books, and links to useful blogs and documentation. |
 | 📄 [`timeline.md`](https://github.com/Akib-Osmani/data-science-journey/blob/main/timeline.md) | A dated log of my weekly/monthly learning progress (diary format). |
 
-📊 GitHub Stats & Streaks:
-<div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default&cache_seconds=86400" style="width: 100%; max-width: 100%; min-width: 300px; min-height: 170px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Osmani&theme=default" style="width: 100%; max-width: 100%; min-width: 300px; min-height: 170px;" />
-  </div>
-</div>
-
-🔥 Keeping the Momentum Going!
 ---
 ---
 
