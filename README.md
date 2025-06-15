@@ -1,4 +1,4 @@
-# 🚀 Data Science Journey
+# 🚀My Data Science Journey
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Akib-Osmani/data-science-journey?color=blue)](https://github.com/Akib-Osmani/data-science-journey)
 [![View Profile](https://img.shields.io/badge/GitHub-@Akib--Osmani-black?logo=github)](https://github.com/Akib-Osmani)
@@ -7,8 +7,7 @@
 Welcome! This is my personal Data Science journey — a structured, transparent, and evolving roadmap of how I'm building and showcasing my skills in data science, analytics, and machine learning. This repository reflects not just projects, but the learning process itself.
 
 ---
-
-## 📌 Repository Overview
+### 📌 Repository Overview
 
 | Folder | Description |
 |--------|-------------|
@@ -21,7 +20,16 @@ Welcome! This is my personal Data Science journey — a structured, transparent,
 | 📂 [`Resources/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Resources) | PDFs, cheat sheets, books, and links to useful blogs and documentation. |
 | 📄 [`timeline.md`](https://github.com/Akib-Osmani/data-science-journey/blob/main/timeline.md) | A dated log of my weekly/monthly learning progress (diary format). |
 
+📊 GitHub Stats & Streaks:
+<div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default&cache_seconds=86400" style="width: 100%; max-width: 100%; min-width: 300px; min-height: 170px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Osmani&theme=default" style="width: 100%; max-width: 100%; min-width: 300px; min-height: 170px;" />
+  </div>
+</div>
 
+🔥 Keeping the Momentum Going!
+---
 ---
 
 ## ✨ Goals
@@ -53,8 +61,8 @@ See [timeline.md](timeline.md) for a chronological journal of learning milestone
 ## 📬 Connect with Me
 
 - GitHub: [Akib-Osmani](https://github.com/Akib-Osmani)
-- LinkedIn: [Your LinkedIn URL here]
-- Email: [Your email here if you want to share]
+- LinkedIn: [Akib Osmani](www.linkedin.com/in/akib-osmani02)
+- Email: [akibaiub.edu@gmail.com](akibaiub.edu@gmail.com)
 
 ---
 
