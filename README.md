@@ -9,6 +9,9 @@ Welcome! This is my personal Data Science journey — a structured, transparent,
 ---
 ### 📌 Repository Overview
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akib-Osmani&repo=data-science-journey&theme=default)](https://github.com/Akib-Osmani/data-science-journey)
+
+
 | Folder | Description |
 |--------|-------------|
 | 📂 [`Python/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Python) | Fundamental Python scripts and exercises, including NumPy, Pandas, OOP, etc. |
