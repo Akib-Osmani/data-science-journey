@@ -54,11 +54,18 @@ See [timeline.md](timeline.md) for a chronological journal of learning milestone
 
 ## 📬 Connect with Me
 
-- GitHub: [Akib-Osmani](https://github.com/Akib-Osmani)
-- LinkedIn: [Akib Osmani](www.linkedin.com/in/akib-osmani02)
-- Email: [akibaiub.edu@gmail.com](akibaiub.edu@gmail.com)
+<p align="center">
+  <a href="https://github.com/Akib-Osmani" target="_blank" rel="noopener">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akib-osmani02" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akibaiub.edu@gmail.com" target="_blank" rel="noopener">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
 
 ## 📄 License
 
