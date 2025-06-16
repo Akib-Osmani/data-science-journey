@@ -29,19 +29,20 @@ Welcome! This is my personal Data Science journey — a structured, transparent,
 ---
 ### 📌 Repository Overview
 
-
-
-
 | Folder | Description |
 |--------|-------------|
-| 📂 [`Python/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Python) | Fundamental Python scripts and exercises, including NumPy, Pandas, OOP, etc. |
-| 📂 [`Projects/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Projects) | Full-scale data science and ML projects with notebooks, reports, and visualizations. |
-| 📂 [`Notebooks/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Notebooks) | Jupyter notebooks for EDA, practice problems, Kaggle challenges, and more. |
-| 📂 [`Tools/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Tools) | Tools, templates, helper scripts for automation, preprocessing, visualization, etc. |
-| 📂 [`DataSets/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/DataSets) | Local copies or links to datasets used throughout the journey. |
 | 📂 [`Certifications/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Certifications) | Certificates and badge screenshots from relevant completed courses. |
+| 📂 [`DataSets/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/DataSets) | Local copies or links to datasets used throughout the journey. |
+| 📂 [`Notebooks/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Notebooks) | Jupyter notebooks for EDA, practice problems, Kaggle challenges, and more. |
+| 📂 [`Projects/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Projects) | Full-scale data science and ML projects with notebooks, reports, and visualizations. |
+| 📂 [`Python/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Python) | Fundamental Python scripts and exercises, including NumPy, Pandas, OOP, etc. |
 | 📂 [`Resources/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Resources) | PDFs, cheat sheets, books, and links to useful blogs and documentation. |
+| 📂 [`Tools/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Tools) | Tools, templates, helper scripts for automation, preprocessing, visualization, etc. |
 | 📄 [`timeline.md`](https://github.com/Akib-Osmani/data-science-journey/blob/main/timeline.md) | A dated log of my weekly/monthly learning progress (diary format). |
+
+
+
+
 
 ---
 ---
