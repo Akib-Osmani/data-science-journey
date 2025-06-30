@@ -1,20 +1,12 @@
 # 🐍 Basic Python for Data Science – My First Steps
 
 Welcome to the **Basic Python** section of my Data Science journey!  
-This folder contains essential Python concepts that are important for anyone starting in data science. These are not just simple codes — they are the base for real-world tasks like data cleaning, automation, and logic building.
+This folder contains essential Python concepts that are important for anyone starting in data science. They are the base for real-world tasks like data cleaning, automation, and logic building.
 
-## 🚧 Why Start with Python Basics?
+---
+## 🧠 What I Learned Here
 
-Before working with data, I must understand how to:
-- Write clear and correct Python code
-- Think like a programmer (logical steps)
-- Use Python to solve small real-life problems
-
-These skills are needed when working with tools like Pandas, NumPy, or scikit-learn later on.
-
-## 🧠 What You'll Learn Here
-
-Each file in this folder teaches a concept that is often used in real-world data tasks:
+Each file in this folder explores a concept that is often used in real-world data tasks:
 
 | Topic               | Real-World Use Case Example                       |
 |--------------------|---------------------------------------------------|
