@@ -2,47 +2,11 @@
 
 # 👨‍💻 My Data Science Journey 📊
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Training+Today;Machine+Learning+Explorer;Python+%26+Analytics+Enthusiast" alt="Typing SVG" />
-</p> -->
-<div align="center">
-  <div style="font-family: 'Fira Code', monospace; font-size: 22px; color: #F75C7E; line-height: 1.6; text-shadow: 0 0 10px rgba(247, 92, 126, 0.3); height: 35px; position: relative;">
-    <div style="position: absolute; width: 100%; animation: fadeInOut1 9s ease-in-out infinite;">
-      Data Scientist in Training Today
-    </div>
-    <div style="position: absolute; width: 100%; animation: fadeInOut2 9s ease-in-out infinite;">
-      Machine Learning Explorer
-    </div>
-    <div style="position: absolute; width: 100%; animation: fadeInOut3 9s ease-in-out infinite;">
-      Python & Analytics Enthusiast
-    </div>
-  </div>
-</div>
+</p>
 
-<style>
-@keyframes fadeInOut1 {
-  0% { opacity: 0; transform: translateY(30px); }
-  11% { opacity: 1; transform: translateY(0); }
-  33% { opacity: 1; transform: translateY(0); }
-  44% { opacity: 0; transform: translateY(-30px); }
-  100% { opacity: 0; transform: translateY(-30px); }
-}
-@keyframes fadeInOut2 {
-  0% { opacity: 0; transform: translateY(30px); }
-  33% { opacity: 0; transform: translateY(30px); }
-  44% { opacity: 1; transform: translateY(0); }
-  66% { opacity: 1; transform: translateY(0); }
-  77% { opacity: 0; transform: translateY(-30px); }
-  100% { opacity: 0; transform: translateY(-30px); }
-}
-@keyframes fadeInOut3 {
-  0% { opacity: 0; transform: translateY(30px); }
-  66% { opacity: 0; transform: translateY(30px); }
-  77% { opacity: 1; transform: translateY(0); }
-  99% { opacity: 1; transform: translateY(0); }
-  100% { opacity: 0; transform: translateY(-30px); }
-}
-</style>
+
 ---
 
 <p align="center">
