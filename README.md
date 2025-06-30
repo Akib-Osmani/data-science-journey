@@ -28,47 +28,17 @@
 Welcome! This is my personal Data Science journey — a structured, transparent, and developing roadmap of how I'm building and showcasing my skills in data science, analytics, and machine learning. This repository reflects not just projects, but the learning process itself.
 
 ---
-
 ### 📌 Repository Overview
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Folder</th>
-      <th align="left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>📂 <a href="https://github.com/Akib-Osmani/data-science-journey/tree/main/01-Python-Fundamentals">Python-Fundamentals/</a></td>
-      <td>Fundamental Python scripts and exercises, including NumPy, Pandas, OOP, etc.</td>
-    </tr>
-    <tr>
-      <td>📂 <a href="https://github.com/Akib-Osmani/data-science-journey/tree/main/02-Data-Analysis-Notebooks">Data-Analysis-Notebooks/</a></td>
-      <td>Jupyter notebooks for EDA, practice problems, Kaggle challenges, and more.</td>
-    </tr>
-    <tr>
-      <td>📂 <a href="https://github.com/Akib-Osmani/data-science-journey/tree/main/03-Complete-Projects">Complete-Projects/</a></td>
-      <td>Full-scale data science and ML projects with notebooks, reports, and visualizations.</td>
-    </tr>
-    <tr>
-      <td>📂 <a href="https://github.com/Akib-Osmani/data-science-journey/tree/main/04-Certifications">Certifications/</a></td>
-      <td>Certificates and badge screenshots from relevant completed courses.</td>
-    </tr>
-    <tr>
-      <td>📂 <a href="https://github.com/Akib-Osmani/data-science-journey/tree/main/Learning-Resources">Learning-Resources/</a></td>
-      <td>PDFs, cheat sheets, books, and links to useful blogs and documentation.</td>
-    </tr>
-    <tr>
-      <td>📂 <a href="https://github.com/Akib-Osmani/data-science-journey/tree/main/Tools">Tools-and-Setup/</a></td>
-      <td>Tools, templates, helper scripts for automation, preprocessing, visualization, etc.</td>
-    </tr>
-    <tr>
-      <td>📄 <a href="https://github.com/Akib-Osmani/data-science-journey/blob/main/timeline.md">timeline.md</a></td>
-      <td>A dated log of my weekly/monthly learning progress (diary format).</td>
-    </tr>
-  </tbody>
-</table>
+| **Folder**                                 | **Description**                                              |
+|------------------------------------------|------------------------------------------------------------------------------|
+| 📂 [`Python-Fundamentals/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/01-Python-Fundamentals) | Fundamental Python scripts and exercises, including NumPy, Pandas, OOP, etc. |
+| 📂 [`Analysis-Notebooks/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/02-Data-Analysis-Notebooks) | Jupyter notebooks for EDA, practice problems, Kaggle challenges, and more. |
+| 📂 [`Complete-Projects/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/03-Complete-Projects) | Full-scale data science and ML projects with notebooks, reports, and visualizations. |
+| 📂 [`Certifications/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/04-Certifications) | Certificates and badge screenshots from relevant completed courses. |
+| 📂 [`Learning-Resources/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Learning-Resources) | PDFs, cheat sheets, books, and links to useful blogs and documentation. |
+| 📂 [`Tools-and-Setup/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Tools) | Tools, templates, helper scripts for automation, preprocessing, visualization, etc. |
+| 📄 [`timeline.md`](https://github.com/Akib-Osmani/data-science-journey/blob/main/timeline.md) | A dated log of my weekly/monthly learning progress (diary format). |
 
 
 
