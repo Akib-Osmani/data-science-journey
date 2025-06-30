@@ -1,11 +1,48 @@
 <div align="center">
 
-# 🚀My Data Science Journey
+# 👨‍💻 My Data Science Journey 📊
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Training+Today;Machine+Learning+Explorer;Python+%26+Analytics+Enthusiast" alt="Typing SVG" />
-</p>
+</p> -->
+<div align="center">
+  <div style="font-family: 'Fira Code', monospace; font-size: 22px; color: #F75C7E; line-height: 1.6; text-shadow: 0 0 10px rgba(247, 92, 126, 0.3); height: 35px; position: relative;">
+    <div style="position: absolute; width: 100%; animation: fadeInOut1 9s ease-in-out infinite;">
+      Data Scientist in Training Today
+    </div>
+    <div style="position: absolute; width: 100%; animation: fadeInOut2 9s ease-in-out infinite;">
+      Machine Learning Explorer
+    </div>
+    <div style="position: absolute; width: 100%; animation: fadeInOut3 9s ease-in-out infinite;">
+      Python & Analytics Enthusiast
+    </div>
+  </div>
+</div>
 
+<style>
+@keyframes fadeInOut1 {
+  0% { opacity: 0; transform: translateY(30px); }
+  11% { opacity: 1; transform: translateY(0); }
+  33% { opacity: 1; transform: translateY(0); }
+  44% { opacity: 0; transform: translateY(-30px); }
+  100% { opacity: 0; transform: translateY(-30px); }
+}
+@keyframes fadeInOut2 {
+  0% { opacity: 0; transform: translateY(30px); }
+  33% { opacity: 0; transform: translateY(30px); }
+  44% { opacity: 1; transform: translateY(0); }
+  66% { opacity: 1; transform: translateY(0); }
+  77% { opacity: 0; transform: translateY(-30px); }
+  100% { opacity: 0; transform: translateY(-30px); }
+}
+@keyframes fadeInOut3 {
+  0% { opacity: 0; transform: translateY(30px); }
+  66% { opacity: 0; transform: translateY(30px); }
+  77% { opacity: 1; transform: translateY(0); }
+  99% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-30px); }
+}
+</style>
 ---
 
 <p align="center">
@@ -24,25 +61,20 @@
 
 </div>
 
-Welcome! This is my personal Data Science journey — a structured, transparent, and evolving roadmap of how I'm building and showcasing my skills in data science, analytics, and machine learning. This repository reflects not just projects, but the learning process itself.
+Welcome! This is my personal Data Science journey — a structured, transparent, and developing roadmap of how I'm building and showcasing my skills in data science, analytics, and machine learning. This repository reflects not just projects, but the learning process itself.
 
 ---
 ### 📌 Repository Overview
 
 | Folder | Description |
 |--------|-------------|
-| 📂 [`Certifications/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Certifications) | Certificates and badge screenshots from relevant completed courses. |
-| 📂 [`DataSets/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/DataSets) | Local copies or links to datasets used throughout the journey. |
-| 📂 [`Notebooks/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Notebooks) | Jupyter notebooks for EDA, practice problems, Kaggle challenges, and more. |
-| 📂 [`Projects/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Projects) | Full-scale data science and ML projects with notebooks, reports, and visualizations. |
-| 📂 [`Python/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Python) | Fundamental Python scripts and exercises, including NumPy, Pandas, OOP, etc. |
-| 📂 [`Resources/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Resources) | PDFs, cheat sheets, books, and links to useful blogs and documentation. |
-| 📂 [`Tools/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Tools) | Tools, templates, helper scripts for automation, preprocessing, visualization, etc. |
+| 📂 [`Python-Fundamentals/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/01-Python-Fundamentals) | Fundamental Python scripts and exercises, including NumPy, Pandas, OOP, etc. |
+| 📂 [`Data-Analysis-Notebooks/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/02-Data-Analysis-Notebooks) | Jupyter notebooks for EDA, practice problems, Kaggle challenges, and more. |
+| 📂 [`Complete-Projects/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/03-Complete-Projects) | Full-scale data science and ML projects with notebooks, reports, and visualizations. |
+| 📂 [`Certifications/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/04-Certifications) | Certificates and badge screenshots from relevant completed courses. |
+| 📂 [`Learning-Resources/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Learning-Resources) | PDFs, cheat sheets, books, and links to useful blogs and documentation. |
+| 📂 [`Tools-and-Setup/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Tools) | Tools, templates, helper scripts for automation, preprocessing, visualization, etc. |
 | 📄 [`timeline.md`](https://github.com/Akib-Osmani/data-science-journey/blob/main/timeline.md) | A dated log of my weekly/monthly learning progress (diary format). |
-
-
-
-
 
 ---
 ---
@@ -58,10 +90,9 @@ Welcome! This is my personal Data Science journey — a structured, transparent,
 ---
 
 ## 🛠️ Tools & Technologies
-
+- Git & GitHub for version control
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
 - Jupyter Notebooks & VS Code
-- Git & GitHub for version control
 - SQL, Excel
 - Coming soon: Deep Learning (TensorFlow/PyTorch), MLOps
 
