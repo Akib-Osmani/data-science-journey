@@ -17,12 +17,12 @@ Tutor: *Core Lab (Git for Freshers Course) and Google.*
 ---
 | **File/Folder**                                 | **Description**                                              |
 |------------------------------------------|------------------------------------------------------------------------------|
-| 📂 [`git-commands-cheatsheet.md/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/git-commands-cheatsheet) | Frequently used Git commands with examples.|
-| 📂 [`git-problems-and-solutions.md/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/git-problems-and-solutions) |Real problems I faced while using Git (e.g., merge conflicts, detached HEAD, reverting commits) and how I solved them.|
-| 📂 [`git-hooks-demo/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/git-hooks-demo) |Examples of pre-commit, post-merge, etc., with explanations. |
-| 📂 [`branching-workflow-demo/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/branching-workflow-demo) | 	Folder with example Git workflows (feature branching, PRs, rebasing).|
-| 📂 [`github-automation/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/github-automation) | 	GitHub Actions or CLI usage examples (e.g., auto-format, test, deploy).|
-| 📂 [`collaboration-examples/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/collaboration-examples) |Simulated team Git scenarios: merge conflicts, rebasing, PR reviewing. |
+| 📂 [`git-commands-cheatsheet.md/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/git-commands-cheatsheet)           | Frequently used Git commands with examples.|
+| 📂 [`git-problems-and-solutions.md/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/git-problems-and-solutions)                 |Real problems I faced while using Git (e.g., merge conflicts, detached HEAD, reverting commits) and how I solved them.|
+| 📂 [`git-hooks-demo/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/git-hooks-demo)              |Examples of pre-commit, post-merge, etc., with explanations. |
+| 📂 [`branching-workflow-demo/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/branching-workflow-demo)           | 	Folder with example Git workflows (feature branching, PRs, rebasing).|
+| 📂 [`github-automation/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/github-automation)             | 	GitHub Actions or CLI usage examples (e.g., auto-format, test, deploy).|
+| 📂 [`collaboration-examples/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/collaboration-examples)            |Simulated team Git scenarios: merge conflicts, rebasing, PR reviewing. |
 ---
 ## 📅 Progress Timeline
 
