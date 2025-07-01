@@ -50,4 +50,4 @@ Feel free to give suggestions, ask questions, or connect with me.
 ---
 
 📌 *This is not just practice. It's a preparation for solving real-world data problems in the future.*  
-🔗 [Back to main repo](github.com/Akib-Osmani/data-science-journey/tree/main)
+🔗 [Back to main repo](https://github.com/Akib-Osmani/data-science-journey)

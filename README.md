@@ -37,6 +37,7 @@ Welcome! This is my personal Data Science journey — a structured, transparent,
 | 📂 [`Complete-Projects/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/03-Complete-Projects) | Full-scale data science and ML projects with notebooks, reports, and visualizations. |
 | 📂 [`Certifications/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/04-Certifications) | Certificates and badge screenshots from relevant completed courses. |
 | 📂 [`Learning-Resources/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Learning-Resources) | PDFs, cheat sheets, books, and links to useful blogs and documentation. |
+| 📂 [`Git-Skills-and-Problems/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Git-Skills-and-Problems) | Examples, notes, and problem-solving logs related to Git and GitHub. |
 | 📂 [`Tools-and-Setup/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/Tools) | Tools, templates, helper scripts for automation, preprocessing, visualization, etc. |
 | 📄 [`timeline.md`](https://github.com/Akib-Osmani/data-science-journey/blob/main/timeline.md) | A dated log of my weekly/monthly learning progress (diary format). |
 
