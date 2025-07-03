@@ -11,7 +11,7 @@ Each file in this folder explores a concept that is often used in real-world dat
 
 | **Topic**                                 | **Real-World Use Case Example**                                              |
 |------------------------------------------|------------------------------------------------------------------------------|
-| 📄 [`variables-data-types-and-typecasting/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/01-Python-Fundamentals/variables-data-types-and-typecasting) | Storing user age (int), converting input strings to numbers for calculations |
+| 📄 [`variables-data-types-and-typecasting/`](https://github.com/Akib-Osmani/data-science-journey/blob/main/01-Python-Fundamentals/basics-to-intermediate/variables-data-types-and-typecasting.ipynb) | Storing user age (int), converting input strings to numbers for calculations |
 | 📄 [`string-and-string-methods-in-python/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/01-Python-Fundamentals/string-and-string-methods-in-python) | Cleaning and formatting user-entered text (e.g. removing extra spaces) |
 | 📄 [`operators-in-python/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/01-Python-Fundamentals/operators-in-python) | Performing calculations (e.g. billing, tax computation) |
 | 📄 [`taking-input-from-the-user/`](https://github.com/Akib-Osmani/data-science-journey/tree/main/01-Python-Fundamentals/taking-input-from-the-user) | Getting login credentials or feedback from a user |
