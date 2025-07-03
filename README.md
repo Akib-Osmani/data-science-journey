@@ -1,3 +1,9 @@
+<!-- SEO Meta Tags -->
+<meta name="description" content="Akib Osmani's Data Science Journey on GitHub: Python, Machine Learning, Git, Data Analysis tutorials for beginners in Bangladesh.">
+<meta name="keywords" content="Akib Osmani, GitHub, Data Science Bangladesh, Data Science Journey, Git, Python, ML, AI, Beginner Tutorials">
+<meta name="author" content="Akib Osmani">
+
+
 <div align="center">
 
 # 👨‍💻 My Data Science Journey 📊
@@ -25,7 +31,7 @@
 
 </div>
 
-Welcome! This is my personal Data Science journey — a structured, transparent, and developing roadmap of how I'm building and showcasing my skills in data science, analytics, and machine learning. This repository reflects not just projects, but the learning process itself.
+Welcome! I'm Akib Osmani. This is my personal **Data Science journey — a structured, transparent, and developing roadmap** of how I'm building and showcasing my skills in data science, analytics, and machine learning. This repository reflects not just projects, but the learning process itself.
 
 ---
 ### 📌 Repository Overview
@@ -72,6 +78,7 @@ See [timeline.md](timeline.md) for a chronological journal of learning milestone
 ---
 
 ## 📬 Connect with Me
+Follow [Akib Osmani](https://github.com/Akib-Osmani) for more on [GitHub Data Science Projects](https://github.com/Akib-Osmani/data-science-journey).
 
 <p align="center">
   <a href="https://github.com/Akib-Osmani" target="_blank" rel="noopener">
