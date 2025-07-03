@@ -8,14 +8,15 @@
 
 # 👨‍💻 My Data Science Journey 📊
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Data+Scientist+in+Training+Today;Machine+Learning+Explorer;Python+%26+Analytics+Enthusiast" alt="Typing SVG" />
 </p>
 
-
 ---
 
 <p align="center">
+  
   <a href="https://github.com/Akib-Osmani/data-science-journey">
     <img src="https://img.shields.io/github/last-commit/Akib-Osmani/data-science-journey?style=for-the-badge&logo=git&logoColor=white&color=FF6B6B&labelColor=4ECDC4" alt="Last Commit"/>
   </a>
@@ -25,7 +26,10 @@
   <a href="https://github.com/Akib-Osmani/data-science-journey/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge&logo=apache&logoColor=white&color=45B7D1&labelColor=96CEB4" alt="Apache 2.0 License"/>
   </a>
+
 </p>
+
+
 
 ---
 
